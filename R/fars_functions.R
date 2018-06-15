@@ -111,9 +111,12 @@ fars_summarize_years <- function(years) {
 #'   for the year. If none, return a message that there is no
 #'   accidents. If invalid state, throw an error
 #'
+<<<<<<< HEAD
 #' @importFrom ("maps", "map")
 #' @importFrom ("graphics", "points")
 #'
+=======
+>>>>>>> 70fdd55bbd3e9ce810c20b7ea800995c6e9725e2
 #' @export
 #'
 #' @examples
